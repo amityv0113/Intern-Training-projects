@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-top: 10%;
+  box-sizing: border-box;
+  color: rgb(44, 30, 30);
+}
+.button1 {
+  background-color: #008CBA; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+input[type=email]:focus {
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgba(65, 65, 65, 0.884);
+  padding:10px;
+  border-radius: 4px;
+  
+}
+.input1{
+  size: 20px;
+  margin-right: 20px;
+
+}
+
+#p-1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: darkslategray;
+  padding-top: 5%;
+}
+#p-2{
+  margin-top: 4%;
+}
