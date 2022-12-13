@@ -11,6 +11,6 @@
   "dependencies": {
     "email-check": "^1.1.0",
     "email-verify": "^0.2.1",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
